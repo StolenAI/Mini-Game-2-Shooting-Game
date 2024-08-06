@@ -1,0 +1,6 @@
+WASD - To Move
+Left Mouse Click - To Shoot
+R - To reload (only when the pop-up message displays)
+Space - To Jump 
+Left Ctrl - To Crouch
+F - To Heal (Only Once & when the pop-up message displays)
